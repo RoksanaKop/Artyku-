@@ -1,1 +1,1 @@
-# Artyku-
+# Artykuł
