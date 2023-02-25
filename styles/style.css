@@ -1,0 +1,22 @@
+.article{
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(193, 171, 175);
+    border: 3px solid black;
+}
+.tittle{
+    font-size: 30px;
+    color: rgb(179, 14, 93);
+    font-weight: 600;
+}
+.subtittle{
+    font-size: 25px;
+    color: rgb(179, 14, 93);
+    font-weight: 500;
+}
+.text{
+    font-size: 15px;
+    color: rgb(179, 14, 93);
+    font-weight: 400;
+}
